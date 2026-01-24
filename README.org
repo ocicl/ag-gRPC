@@ -4,6 +4,6 @@ Pure Common Lisp implementation of gRPC, Protocol Buffers, and HTTP/2
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/atgreen/ag-gRPC.git         |
-| commit  | be83351                                            |
+| commit  | 536f82a                                            |
 | systems | ag-http2 ag-grpc ag-proto ag-proto-cli ag-grpc-all |
 |---------+----------------------------------------------------|
